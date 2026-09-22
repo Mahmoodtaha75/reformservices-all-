@@ -99,7 +99,7 @@ hideAllForms();
 // Add event listener to the call us now button
 const callUsNowBtn = document.getElementById('callUsNowBtn');
 callUsNowBtn.addEventListener('click', () => {
-    const phoneNumber = '+919886106311';
+    const phoneNumber = '+918892386209';
     const callLink = `tel:${phoneNumber}`;
     window.open(callLink, '_blank');
 });
